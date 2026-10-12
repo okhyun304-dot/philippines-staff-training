@@ -2,6 +2,11 @@
 
 Two bilingual pork-belly cooking training materials for kitchen staff.
 
+## Open directly
+
+- [Training page](https://okhyun304-dot.github.io/philippines-staff-training/training.html)
+- [Detailed handbook](https://okhyun304-dot.github.io/philippines-staff-training/handbook.html)
+
 | File | Purpose |
 | --- | --- |
 | [training.html](training.html) | Six-step quick reference for use during work. |
